@@ -1,7 +1,7 @@
 # violentjavacat
 My Java practice project
-运用Java基础语法、面向对象的知识，完成马戏团节目管理系统开发。
-详细设计：
+本项目是马戏团节目管理系统，运用Java基础语法、面向对象的知识，完成。
+详细设计如下：
 1.抽象父类：
 动物（Animal）
 属性：昵称（name）、年龄（age）
