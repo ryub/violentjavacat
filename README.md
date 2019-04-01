@@ -3,14 +3,14 @@ My Java practice project
 This project is a circus program management system, which uses Java basic grammar and object-oriented knowledge to complete.
 Detailed design is as follows:
 
-1. The Abstract parent class:
+1.The Abstract parent class:
 Animals
 
 Attributes: nickname, age
 
 Abstract method: describing love
 
-2. interface
+2.interface
 
 Performance (IACT)
 
@@ -18,7 +18,7 @@ Abstract methods: descriptive skills, descriptive acting
 
 Note: Each performer's performance information is output by calling act () method
 
-3. implementation class
+3.implementation class
 
 Brown Bear
 
